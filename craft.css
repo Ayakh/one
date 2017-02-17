@@ -1,0 +1,530 @@
+ .one {
+        background-color: #282828;
+    }
+    .nav .fa{
+        color: white;
+        margin: 7px;
+}  
+   .one small{
+        color: white;
+      
+    
+    }
+.one .a{
+     margin-top: 4px;
+}
+.one .b{
+     margin-top: 4px;
+}
+
+
+
+.two{
+        background-color: #ffffff;
+    }
+    
+    .two h1{
+        color: #636666;
+    }
+    
+    .two .navbar-right {
+        margin: 20px;
+      
+    }
+    .two .btn-default{
+        color: #5db442;
+        border-color: #5db442;
+            margin-top: 6px;
+        border-radius: 15px 15px 15px 15px;
+        width: 100px;
+    }
+
+@media (max-width:1199px){
+    .two .products {
+        margin-top: -77px;
+    }
+}
+
+@media (min-width:320px) and (max-width:363px){
+    .two .products {
+        margin-left: -26px;
+        margin-left: 174px;
+    margin-top: -64px;
+    }
+    
+}
+
+
+
+@media (min-width:364px) and (max-width:554px){
+    .two .btn {
+        margin-left: 195px;
+    }
+}
+
+@media (min-width:553px) and (max-width:767px){
+    .two .products {
+        margin-top: 0px;
+    }
+    
+}
+
+@media (min-width:375px) and (max-width:538px){
+.two .products{
+    margin-top: 10px;
+    
+}
+    
+}
+
+    .three{
+        background-color: #4ca368;
+    }
+    .three h1{
+        color: #000000;
+    }
+    .three p{
+        color: #051409;
+    }
+    .img{
+        margin-top: 100px;
+    }
+    .img-responsive{
+        margin: auto;
+        width: 700px;
+    }
+    
+    .three form{
+  
+      margin: auto;
+    
+}
+    
+   .three .form-inline .form-group{
+        margin-top: 50px;
+    }
+ .form-control.search-input{
+       width: 190px;
+    text-align-last: center;
+      border-radius: 15px 0px 0px 15px;
+     float: left;
+   border: 1px solid green;
+    }
+.three .form-group .use-it-free{
+
+    border-radius: 0px 15px 15px 0px;
+    width: 100px;
+    margin-left: -5px;
+    float: left;
+        border: 1px solid green;
+   
+}
+    .three p{
+        margin-top: 5px;
+        color: #ecf4ef;
+    }
+@media (min-width:375px) and (max-width:538px){
+.three .x{
+    margin-right: -13px;
+}
+}
+
+@media (min-width:329px) and (max-width:525px){
+.three .form-group{
+    margin-left: 52px;
+}
+    .three .x{
+    margin-right: 15px;
+}
+}
+
+@media (min-width:315px) and (max-width:328px){
+.three .form-group{
+   
+}
+    .three .x{
+    
+}
+}
+
+@media (min-width:385px) and (max-width:425px){
+.three .form-group{
+   margin-left: 48px;
+}
+    .three .x{
+    
+}
+}
+
+@media (min-width:329px) and (max-width:384px){
+.three .form-group{
+   margin-left: 18px;
+}
+    .three .x{
+    
+}
+}
+
+@media (min-width:364px) and (max-width:383px){
+.three .form-group{
+   margin-left: 24px;
+}
+    .three .x{
+    
+}
+}
+
+
+@media (min-width:370px) and (max-width:393px){
+.three .form-group{
+   margin-left: 33px;
+}
+    .three .x{
+    
+}
+}
+
+@media (min-width:329px) and (max-width:332px){
+.three .form-group{
+   margin-left: 0px;
+}
+    .three .x{
+    
+}
+}
+
+@media (min-width:379px) and (max-width:423px){
+.three .form-group{
+   margin-left: 60px;
+}
+    .three .x{
+    margin-right: 33px;
+}
+}
+
+@media (min-width:424px) and (max-width:525px){
+.three .form-group{
+   margin-left: 100px;
+}
+    .three .x{
+    margin-right: 96px;
+}
+}
+
+
+.four{
+    background-color: #ececec;
+    padding-bottom: 50px
+}
+
+
+.four h1{
+    margin-bottom: 20px;
+ font-size: 50px;
+}
+
+
+.fa-angle-up{
+    color: grey;
+    
+}
+
+ .fa-angle-down{
+    color: grey;
+}
+
+.big .fa-sign-in{
+    color: #5db442;
+    margin-top: 19px;
+    float: right;
+}
+
+.four .col-lg-6{
+    text-align: left;
+}
+.four h3{
+    color: #5db442;
+}
+
+.well{
+      background-color: white;
+     padding-bottom: 40px;
+    margin: auto;
+}
+
+@media (min-width:768px) {
+    .well{width: 50%}
+
+}
+@media (max-width:768px) {
+    .well{width: 100%}
+
+}
+
+.signs{
+    padding-top: 30px;
+}
+
+.icon2 {
+    padding-top: 17px;
+}
+.icon3 {
+    padding-top: 17px;
+}
+
+.icon-check{
+    color: #5db442;
+}
+.icon-unlink{
+     color: #5db442;
+}
+
+.four .icon .circle-icon  {
+    background: #5db442;
+    padding:20px;
+    border-radius: 50%;
+     color: white;
+     
+}
+.four .icon2 .circle-icon  {
+    background-color:white;
+    color: #5db442;
+    padding:20px;
+    border-radius: 50%;
+     border-color: black;
+     
+}
+
+.four .icon3 .circle-icon  {
+    background-color:white;
+    border-color: aquamarine;
+    padding:20px;
+    border-radius: 50%;
+     border-color: black;
+     
+}
+
+
+.four small{
+     margin-left: 60px;
+    color: black;
+   
+}
+
+
+.five {
+    background-color: white;
+    padding-top: 40px;
+}
+
+.five .first{
+    
+background-color:#2db300;
+    display:inline-block;
+    width:140px;    
+    height: 30px;
+    color:#fff;
+    text-align:center;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;  
+    line-height: 28px;
+    text-decoration:none;
+    float:left ;
+
+}
+
+.five .second{
+    background:#008c00;
+    border:1px solid #000;
+    border-radius:60px;
+    font-size:12px;
+    color:#fff;
+    display:inline-block;
+    text-align:center;   
+    line-height: 18px;
+    width:19px;
+    height:19px;  
+    position: absolute;
+    margin-top: 5px;
+    text-decoration:none;
+    
+}
+ 
+.five .third{
+    display:inline-block;
+    width:150px; 
+    color:#000;  
+    height: 30px;
+    text-align:center;
+    text-decoration:none;
+   
+   
+}
+
+@media (max-width:2560px) {
+    .third{margin-top: 4px;
+     
+    }
+
+    .second{
+        margin-left: -9px;
+    }
+
+}
+
+@media (max-width:321px) {
+    .third{margin-top: -28px;
+        float: right;
+     
+    }
+
+    .second{
+        margin-left: -84px;
+    }
+
+}
+
+
+.five .row {
+    margin-top: 40px;
+}
+.five .inner{
+    padding: 8px;
+    border: 1px solid #DDD;
+    
+    
+}
+
+.five .col-lg-4{
+    padding: 50px;
+}
+.five .inner p{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    line-height: 80px;
+    margin:auto;
+    border-color: green;
+    border:1px solid green;
+}
+
+.glyphicon-ok-sign{
+    color: green;
+}
+.glyphicon-remove {
+    color: red;
+}
+.five small{
+    color: black;
+}
+.five ul{
+padding-top: 25px;
+}
+.five .btn{
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 10px;
+}
+.six{
+    background-color: #ececec;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.six .inner{
+    padding: 10px;
+    border: 1px solid #DDD;
+    background-color: white;
+    
+}
+ .fa-book{
+    color: #5db442;
+}
+.fa-bug {
+    color: white;
+}
+.fa-cogs{
+     color: #5db442;
+}
+.glyphicon-new-window {
+    font-size: 37px;
+    color:  #5db442;
+    
+    
+}
+.six small{
+    color: black;
+    font-size: 11px;
+    padding: 4px;
+}
+.six .col-lg-3 {
+    padding: 15px;
+}
+.six .innerx{
+    background-color:  #5db442;
+     padding: 8px;
+    border: 1px solid #DDD;
+    
+}
+.innerx small{
+    background-color:  #5db442;
+    font-size: 12px;
+    padding: 4px;
+}
+.fa-coffee{
+   color:  #5db442;  
+}
+.glyphicon-grain{
+    font-size: 37px;
+    color:  #5db442;
+}
+.innery{
+    background-color: white;
+    margin-top: 20px;
+     padding-top: 10px;
+    border: 1px solid #DDD;
+    padding-bottom: 25px;
+}
+.fa-folder-open{
+     color:  #5db442;
+}
+.fa-paper-plane{
+     color:  #5db442;
+}
+.seven {
+    background-color: #efefef;
+}
+
+
+
+.seven .email{
+    width: 260px;
+    height: 50px;
+    border-radius: 0px 0px 0px 0px;
+    
+}
+.seven .Use{
+    border-radius: 0px 0px 0px 0px;
+    height: 50px;
+    width: 50px;
+}
+.seven .innerx{
+   text-align: left;
+}
+.seven .innerz{
+   
+  text-align: left;
+}
+.seven .innerw{
+  text-align: left;
+}
+.seven ul li{
+    padding: 1.5px;
+}
+footer{
+    background-color: #efefef;
+}
+footer h2{
+ color: #636666;
+}
+footer small{
+    float: right;
+}
